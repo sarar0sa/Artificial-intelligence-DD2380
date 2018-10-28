@@ -22,7 +22,7 @@ Given an observation sequence O and the dimensions N and M, we want to find the 
 
 ## Lab: A2 - Tic-Tac-Toe
 
-A lab in the course Artificial Intelligence - DD2380. In the lab an skeleton code was given, in this code we then added an implementation of the minimax algorithm with alpha-beta pruning to speed it up.
+A lab in the course Artificial Intelligence - DD2380. In the lab an skeleton code was given, in this code we then added an implementation of the minimax algorithm with alpha-beta pruning to speed it up in the Player.java-file.
 This to be able to write a program computing the best possible next move for player X in a game of tic-tac-toe, given a particular state of the game for n = 2. 
 
 Due to time constraints, we could not analyse the complete game tree. Therefore, we investigate the influence of the maximum search depth and come up with a suitable evaluation function.  
